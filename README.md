@@ -6,6 +6,8 @@ The objective of the project was to verify the financial stability of the examin
 
 ## Scope of analysis
 The analysis includes preliminary analysis (vertical, horizontal, vertical-horizontal) and four key pillars of corporate finance:
+
+Cash-Flow analysis:
 ![Analiza Przepływów](AF_Przeplywy.png)
 
 Preview of the most important sheets:
