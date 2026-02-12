@@ -25,12 +25,15 @@ Verification of sales efficiency and capital management.
 
 ### 3. Solvency and financing structure
 Analysis of long-term security and debt levels.
-
+* **Analyzed indicators:** * **Analyzed indicators:** EBIT Margin, Net Margin, ROE (Return on Equity), ROA (Return on Assets).
+  
 ### 4. Operational efficiency (Activity)
 Assessment of the turnover rate of receivables, liabilities, and inventory.
+* **Analyzed indicators:** Total Asset Turnover, Inventory Turnover, Receivables Turnover, Days Sales Outstanding (DSO), Days Payable Outstanding (DPO), Days Inventory Outstanding (DIO).
 
 ### 5. Dynamic Ratios (Cash Flow)
 Based on Net Operating Cash Flows.
+* **Analyzed indicators:** Operating Cash Flow to Sales, Cash Flow to Net Income, Cash Flow Adequacy Ratio.
 
 ## Methodology and Tools
 The project was completed using a **Microsoft Excel** spreadsheet. 
