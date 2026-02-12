@@ -20,7 +20,7 @@ Assessment of the company's ability to settle short-term obligations in a timely
 
 ### 2. Profitability
 Verification of sales efficiency and capital management.
-* **Analyzed indicators:** EBIT Margin, Net Margin, ROE (Return on Equity), ROA (Return on Assets).
+* **Analyzed indicators:** Net Profit Margin, ROS (Return on Sales), ROE (Return on Equity), ROA (Return on Assets).
 ![Wskaźniki Rentowności](AF_WkaznikiRentownosci.png)
 
 ### 3. Solvency and financing structure
