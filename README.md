@@ -22,6 +22,9 @@ Analiza długoterminowego bezpieczeństwa i poziomu zadłużenia.
 ### 4. Efektywność operacyjna (Activity)
 Ocena szybkości obrotu należnościami, zobowiązaniami i zapasami.
 
+### Wykresy:
+![Wskaźniki Rentowności](AF_WkaznikiRentownosci.png)
+
 ## Metodologia i Narzędzia
 Projekt został zrealizowany przy użyciu arkusza kalkulacyjnego **Microsoft Excel**. Wykorzystano zaawansowane formuły finansowe oraz formatowanie warunkowe do wizualizacji odchyleń.
 
