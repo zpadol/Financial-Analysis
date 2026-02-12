@@ -1,6 +1,6 @@
 # 📊 Analiza Finansowa Spółki Atende (2022–2024)
 
-Kompleksowy projekt oceny kondycji finansowej przedsiębiorstwa, oparty na sprawozdaniach finansowych z lat 2022–2024. Analiza koncentruje się na identyfikacji trendów, ocenie ryzyka oraz efektywności zarządzania kapitałem.
+Kompleksowy projekt oceny kondycji finansowej przedsiębiorstwa, oparty na sprawozdaniach finansowych z lat 2022–2024. Analiza koncentruje się na identyfikacji trendów, ocenie ryzyka oraz efektywności zarządzania kapitałem. Całość analizy znajduje się w pliku xlsx
 
 ## Cel projektu
 Celem projektu była weryfikacja stabilności finansowej badanej jednostki oraz ocena jej potencjału do generowania zysków w przyszłości. Raport odpowiada na pytania dotyczące bezpieczeństwa płynnościowego oraz efektywności operacyjnej.
