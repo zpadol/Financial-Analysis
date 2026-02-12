@@ -7,26 +7,27 @@ Celem projektu była weryfikacja stabilności finansowej badanej jednostki oraz 
 
 ## Zakres analizy
 Analiza obejmuje analizę wstępną (pionową, poziomą, pionowo-poziomą) oraz cztery kluczowe filary finansów przedsiębiorstwa:
+![Analiza Przepływów](AF_Przeplywy.png)
 
+Widok poglądowy:
 ![Widok 1](Zrzut%20ekranu%202026-02-12%20211507.png) 
 ![Widok 2](Zrzut%20ekranu%202026-02-12%20211531.png)
 
 ### 1. Płynność finansowa (Liquidity)
 Ocena zdolności firmy do terminowego regulowania zobowiązań krótkoterminowych.
 * **Analizowane wskaźniki:** Płynność bieżąca (Current Ratio), Płynność szybka (Quick Ratio), Płynność gotówkowa.
+![Wskaźniki ROS i Płynność](AF_ROS_Plynnosc.png)
 
 ### 2. Rentowność (Profitability)
 Weryfikacja efektywności sprzedaży i zarządzania kapitałem.
 * **Analizowane wskaźniki:** Marża EBIT, Marża Netto, ROE (Zwrot z kapitału własnego), ROA (Zwrot z aktywów).
+![Wskaźniki Rentowności](AF_WkaznikiRentownosci.png)
 
 ### 3. Wypłacalność i struktura finansowania (Solvency)
 Analiza długoterminowego bezpieczeństwa i poziomu zadłużenia.
 
 ### 4. Efektywność operacyjna (Activity)
 Ocena szybkości obrotu należnościami, zobowiązaniami i zapasami.
-
-### Wykresy:
-![Wskaźniki Rentowności](AF_WkaznikiRentownosci.png)
 
 ## Metodologia i Narzędzia
 Projekt został zrealizowany przy użyciu arkusza kalkulacyjnego **Microsoft Excel**. Wykorzystano zaawansowane formuły finansowe oraz formatowanie warunkowe do wizualizacji odchyleń.
