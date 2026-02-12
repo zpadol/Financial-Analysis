@@ -8,6 +8,8 @@ Celem projektu była weryfikacja stabilności finansowej badanej jednostki oraz 
 ## Zakres analizy
 Analiza obejmuje analizę wstępną (pionową, poziomą, pionowo-poziomą) oraz cztery kluczowe filary finansów przedsiębiorstwa:
 
+| ![Widok 1](Zrzut%20ekranu%202026-02-12%20211524.png) | ![Widok 2](Zrzut%20ekranu%202026-02-12%20211531.png) |
+
 ### 1. Płynność finansowa (Liquidity)
 Ocena zdolności firmy do terminowego regulowania zobowiązań krótkoterminowych.
 * **Analizowane wskaźniki:** Płynność bieżąca (Current Ratio), Płynność szybka (Quick Ratio), Płynność gotówkowa.
