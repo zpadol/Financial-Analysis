@@ -9,7 +9,7 @@ Celem projektu była weryfikacja stabilności finansowej badanej jednostki oraz 
 Analiza obejmuje analizę wstępną (pionową, poziomą, pionowo-poziomą) oraz cztery kluczowe filary finansów przedsiębiorstwa:
 ![Analiza Przepływów](AF_Przeplywy.png)
 
-Widok poglądowy najważniejszych arkuszy:
+Widok podglądowy najważniejszych arkuszy:
 ![Widok 1](Zrzut%20ekranu%202026-02-12%20211507.png) 
 ![Widok 2](Zrzut%20ekranu%202026-02-12%20211531.png)
 
