@@ -1,40 +1,42 @@
-# 📊 Analiza Finansowa Spółki Atende (2022–2024)
+# 📊 Financial Analysis of Atende (2022–2024)
+Comprehensive project for assessing the financial condition of the company, based on financial statements from 2022–2024. The analysis focuses on identifying trends, assessing risk, and the efficiency of capital management. The entire analysis is located in the xlsx file.
 
-Kompleksowy projekt oceny kondycji finansowej przedsiębiorstwa, oparty na sprawozdaniach finansowych z lat 2022–2024. Analiza koncentruje się na identyfikacji trendów, ocenie ryzyka oraz efektywności zarządzania kapitałem. Całość analizy znajduje się w pliku xlsx
+## Project objective
+The objective of the project was to verify the financial stability of the examined entity and evaluate its potential to generate profits in the future. The report answers questions regarding liquidity security and operational efficiency.
 
-## Cel projektu
-Celem projektu była weryfikacja stabilności finansowej badanej jednostki oraz ocena jej potencjału do generowania zysków w przyszłości. Raport odpowiada na pytania dotyczące bezpieczeństwa płynnościowego oraz efektywności operacyjnej.
-
-## Zakres analizy
-Analiza obejmuje analizę wstępną (pionową, poziomą, pionowo-poziomą) oraz cztery kluczowe filary finansów przedsiębiorstwa:
+## Scope of analysis
+The analysis includes preliminary analysis (vertical, horizontal, vertical-horizontal) and four key pillars of corporate finance:
 ![Analiza Przepływów](AF_Przeplywy.png)
 
-Widok podglądowy najważniejszych arkuszy:
+Preview of the most important sheets:
 ![Widok 1](Zrzut%20ekranu%202026-02-12%20211507.png) 
 ![Widok 2](Zrzut%20ekranu%202026-02-12%20211531.png)
 
-### 1. Płynność finansowa (Liquidity)
-Ocena zdolności firmy do terminowego regulowania zobowiązań krótkoterminowych.
-* **Analizowane wskaźniki:** Płynność bieżąca (Current Ratio), Płynność szybka (Quick Ratio), Płynność gotówkowa.
+### 1.Liquidity
+Assessment of the company's ability to settle short-term obligations in a timely manner.
+* **Analyzed indicators***: Current Ratio, Quick Ratio, Cash Ratio.Ratio
 ![Wskaźniki ROS i Płynność](AF_ROS_Plynnosc.png)
 
-### 2. Rentowność (Profitability)
-Weryfikacja efektywności sprzedaży i zarządzania kapitałem.
-* **Analizowane wskaźniki:** Marża EBIT, Marża Netto, ROE (Zwrot z kapitału własnego), ROA (Zwrot z aktywów).
+### 2. Profitability
+Verification of sales efficiency and capital management.
+* **Analyzed indicators:** EBIT Margin, Net Margin, ROE (Return on Equity), ROA (Return on Assets).
 ![Wskaźniki Rentowności](AF_WkaznikiRentownosci.png)
 
-### 3. Wypłacalność i struktura finansowania (Solvency)
-Analiza długoterminowego bezpieczeństwa i poziomu zadłużenia.
+### 3. Solvency and financing structure
+Analysis of long-term security and debt levels.
 
-### 4. Efektywność operacyjna (Activity)
-Ocena szybkości obrotu należnościami, zobowiązaniami i zapasami.
+### 4. Operational efficiency (Activity)
+Assessment of the turnover rate of receivables, liabilities, and inventory.
 
-## Metodologia i Narzędzia
-Projekt został zrealizowany przy użyciu arkusza kalkulacyjnego **Microsoft Excel**. Wykorzystano zaawansowane formuły finansowe oraz formatowanie warunkowe do wizualizacji odchyleń.
+### 5. Dynamic Ratios (Cash Flow)
+Based on Net Operating Cash Flows.
 
-## Główne wnioski
-Na podstawie przeprowadzonych obliczeń sformułowano następującą diagnozę:
-* **Wysoka stabilność finansowa:** Spółka utrzymuje bezpieczną płynność i generuje silne przepływy pieniężne, co pozwala na samodzielne finansowanie inwestycji i potencjalną wypłatę dywidendy.
-* **Skuteczna odbudowa rentowności:** Po słabszym 2022 roku, firma znacząco poprawiła wyniki i zwiększyła skalę przychodów, utrzymując marże na bezpiecznym poziomie mimo specyfiki branży integratorskiej.
-* **Efektywne zarządzanie kapitałem obrotowym:** Mimo wydłużenia cyklu inkasa należności w 2024 r., spółka skutecznie kompensuje to poprzez optymalizację zapasów i zarządzanie zobowiązaniami wobec dostawców.
+## Methodology and Tools
+The project was completed using a **Microsoft Excel** spreadsheet. 
+
+## Key Conclusions
+Based on the calculations performed, the following diagnosis was formulated:
+* **High financial stability:** The company maintains safe liquidity and generates strong cash flows, allowing for self-financing of investments and potential dividend payments.
+* **Successful profitability recovery:** After a weaker 2022, the company significantly improved its results and increased its revenue scale, maintaining margins at a safe level despite the specific nature of the IT integration industry.
+* **Effective working capital management:** Despite the extension of the collection period in 2024, the company effectively compensates for this through inventory optimization and management of accounts payable to suppliers.
 ---
